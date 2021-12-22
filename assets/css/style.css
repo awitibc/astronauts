@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(251, 255, 0);
+}
+.one{
+    background-color: rgb(255, 0, 0);
+}
+.two{
+    background-color: yellow;
+}
+h1{
+    background-color: crimson;
+}
+h2{
+    background-color: crimson;
+}
+h3{
+    background-color: crimson;
+}
+p{
+    background-color: crimson;
+}
